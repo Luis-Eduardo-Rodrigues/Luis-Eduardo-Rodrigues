@@ -1,7 +1,9 @@
-<h1>👋 Hello World! I'm Luís.</h1>
+<h1>👋 Hello World! Meu chamo Luís</h1>
 
-<p>I'm 15 years old. <br> <br>
-💻 I am a student and I intend to pursue a career in Web Developer. <br> <br>
-See my projects...
+<p>Tenho 15 anos de idade.<br> <br>
+💻 Sou estudante e grande admirador de tecnologia.<br> <br>
+Pretendo seguir e trabalhar na área de Programação Web. <br> <br>
+Atualmente estudando Javascript e futuramente PHP. <br> <br>
+Veja meu projetos...
  </p>
 
