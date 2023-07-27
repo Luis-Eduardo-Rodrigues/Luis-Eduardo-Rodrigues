@@ -1,9 +1,9 @@
-<h1>Olá, Mundo! Me chamo Luís Eduardo.</h1>
+<h1>Hello, World! I'm Luis Eduardo.</h1>
 
-<p>Tenho 15 anos de idade.<br> <br>
-💻 Sou estudante e admirador de tecnologia.<br> <br>
-  &lt;/&gt; Pretendo seguir e trabalhar na área de Programação Web. &lt;/&gt; <br> <br>
-Atualmente estudando Javascript e futuramente ReactJS junto de NodeJS<br> <br>
-Veja meu projetos...
+<p>I'm 15 years old.<br> <br>
+💻 I'm a student and technology enthusiast.<br> <br>
+  &lt;/&gt; I intend to follow and work in the area of ​​Web Programming. &lt;/&gt; <br> <br>
+Currently studying Javascript and in the future ReactJS with NodeJS<br> <br>
+See my projects...
  </p>
 
