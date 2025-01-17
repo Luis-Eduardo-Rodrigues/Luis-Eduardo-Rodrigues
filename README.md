@@ -1,5 +1,5 @@
 # About Me:
-I'm 17 years old.<br><br>💻 I'm a student and technology enthusiast.<br><br></> I intend to follow and work in the area of ​​Web Programming (fullstack). </><br><br>Currently studying ReactJS and PHP
+I'm 17 years old.<br><br>💻 I'm a student and technology enthusiast.<br><br></> I intend to follow and work in the area of ​​Web Programming (fullstack). </><br><br>Currently studying ReactJS, NodeJS and PHP
 
 
 # 💻 Tech Stack:
