@@ -1,5 +1,5 @@
 # About Me:
-I'm 17 years old.<br><br>💻 I'm a student and technology enthusiast.<br><br></> I intend to follow and work in the area of ​​Web Programming (fullstack). </><br><br>Currently studying ReactJS and NodeJS
+I'm 18 years old.<br><br>💻 I'm a student and technology enthusiast.<br><br></> I intend to follow and work in the area of ​​Web Programming (fullstack). </><br><br>Currently studying ReactJS and NodeJS
 
 
 # 💻 Tech Stack:
@@ -21,5 +21,3 @@ I'm 17 years old.<br><br>💻 I'm a student and technology enthusiast.<br><br></
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luis-Eduardo-Rodrigues&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
