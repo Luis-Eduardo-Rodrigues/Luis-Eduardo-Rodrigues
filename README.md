@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 I'm 18 years old.<br><br>💻 I'm a student and technology enthusiast.<br><br></> Searching my first opportunity as a Software Developer (fullstack). </><br><br>Currently studying ReactJS and NodeJS. <br><br> See my projects and consider contacting me. 
 
 
