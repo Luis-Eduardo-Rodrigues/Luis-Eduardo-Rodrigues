@@ -1,5 +1,5 @@
 # About Me
-I'm 18 years old.<br><br>💻 I'm a student and technology enthusiast.<br><br></> Searching my first opportunity as a Software Developer. </><br><br>Currently studying ReactJS, NodeJS and NestJS. <br><br> See my projects and consider contacting me. 
+I'm 18 years old.<br><br>💻 I'm a student of systems analysis and development. <br><br></> Searching my first opportunity as a Software Developer. </><br><br>Currently studying ReactJS, NodeJS and NestJS. <br><br> See my projects and consider contacting me.
 
 
 # 💻 Tech Stack:
